@@ -14,3 +14,10 @@ ReactDOM.render(
   </div>,
   document.getElementById('app')
 )
+
+ReactDOM.render(
+  <div>
+    <h1>湯家熏</h1>
+  </div>,
+  document.getElementById('app1')
+)
